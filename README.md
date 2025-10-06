@@ -7,7 +7,6 @@ This tool generates a **50x28 pixel black and white XBM bitmap** from an input i
 ## Requirements
 
 - Python 3.x
-- Standard Python libraries only (no external dependencies)
 - An image editor such as **Photopea**, **Photoshop**, or **GIMP**
 
 ---
